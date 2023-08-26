@@ -45,3 +45,4 @@ TODO
 - (2022/06, Zenn) [作ってわかる！はじめての gRPC](https://zenn.dev/hsaki/books/golang-grpc-starting)
 - [ymmt2005/grpc-tutorial](https://github.com/ymmt2005/grpc-tutorial)
   - 2021 年にサイボウズの社内研修用の gRPC の資料
+- [github.com/hatena/Hatena-Intern-2020-Template)](https://github.com/hatena/Hatena-Intern-2020-Template)
